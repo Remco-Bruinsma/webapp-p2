@@ -27,7 +27,14 @@ namespace Webapp_p2_floraflow.Controllers
         {
             return View();
         }
-
+        public IActionResult Plants()
+        {
+            return View();
+        }
+        public IActionResult Pots()
+        {
+            return View();
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
