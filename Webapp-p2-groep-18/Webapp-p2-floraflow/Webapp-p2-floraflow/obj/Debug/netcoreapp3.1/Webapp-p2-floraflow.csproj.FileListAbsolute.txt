@@ -91,6 +91,15 @@ C:\Users\Torem\Documents\semester 2\groeps project\webapp-p2\webapp-p2\Webapp-p2
 C:\Users\Torem\Documents\semester 2\groeps project\webapp-p2\webapp-p2\Webapp-p2-groep-18\Webapp-p2-floraflow\Webapp-p2-floraflow\obj\Debug\netcoreapp3.1\Webapp-p2-floraflow.dll
 C:\Users\Torem\Documents\semester 2\groeps project\webapp-p2\webapp-p2\Webapp-p2-groep-18\Webapp-p2-floraflow\Webapp-p2-floraflow\obj\Debug\netcoreapp3.1\Webapp-p2-floraflow.pdb
 C:\Users\Torem\Documents\semester 2\groeps project\webapp-p2\webapp-p2\Webapp-p2-groep-18\Webapp-p2-floraflow\Webapp-p2-floraflow\obj\Debug\netcoreapp3.1\Webapp-p2-floraflow.genruntimeconfig.cache
-C:\Users\Torem\Documents\semester 2\groeps project\webapp-p2\webapp-p2\Webapp-p2-groep-18\Webapp-p2-floraflow\Webapp-p2-floraflow\obj\Debug\netcoreapp3.1\Razor\Views\Home\Plants.cshtml.g.cs
-C:\Users\Torem\Documents\semester 2\groeps project\webapp-p2\webapp-p2\Webapp-p2-groep-18\Webapp-p2-floraflow\Webapp-p2-floraflow\bin\Debug\netcoreapp3.1\Views\Home\Plants.cshtml
 C:\Users\Torem\Documents\semester 2\groeps project\webapp-p2\webapp-p2\Webapp-p2-groep-18\Webapp-p2-floraflow\Webapp-p2-floraflow\obj\Debug\netcoreapp3.1\Razor\Views\Home\Pots.cshtml.g.cs
+C:\Users\Torem\Documents\semester 2\groeps project\webapp-p2\webapp-p2\Webapp-p2-groep-18\Webapp-p2-floraflow\Webapp-p2-floraflow\obj\Debug\netcoreapp3.1\Razor\Views\Home\Plants.cshtml.g.cs
+C:\Users\Torem\Documents\semester 2\groeps project\webapp-p2\webapp-p2\Webapp-p2-groep-18\Webapp-p2-floraflow\Webapp-p2-floraflow\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Torem\Documents\semester 2\groeps project\webapp-p2\webapp-p2\Webapp-p2-groep-18\Webapp-p2-floraflow\Webapp-p2-floraflow\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Torem\Documents\semester 2\groeps project\webapp-p2\webapp-p2\Webapp-p2-groep-18\Webapp-p2-floraflow\Webapp-p2-floraflow\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Torem\Documents\semester 2\groeps project\webapp-p2\webapp-p2\Webapp-p2-groep-18\Webapp-p2-floraflow\Webapp-p2-floraflow\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Torem\Documents\semester 2\groeps project\webapp-p2\webapp-p2\Webapp-p2-groep-18\Webapp-p2-floraflow\Webapp-p2-floraflow\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Torem\Documents\semester 2\groeps project\webapp-p2\webapp-p2\Webapp-p2-groep-18\Webapp-p2-floraflow\Webapp-p2-floraflow\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Torem\Documents\semester 2\groeps project\webapp-p2\webapp-p2\Webapp-p2-groep-18\Webapp-p2-floraflow\Webapp-p2-floraflow\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Torem\Documents\semester 2\groeps project\webapp-p2\webapp-p2\Webapp-p2-groep-18\Webapp-p2-floraflow\Webapp-p2-floraflow\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Torem\Documents\semester 2\groeps project\webapp-p2\webapp-p2\Webapp-p2-groep-18\Webapp-p2-floraflow\Webapp-p2-floraflow\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Torem\Documents\semester 2\groeps project\webapp-p2\webapp-p2\Webapp-p2-groep-18\Webapp-p2-floraflow\Webapp-p2-floraflow\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
